@@ -1,4 +1,4 @@
-## Desafio Realizado no bootcamp de Ciência de Dados
+## Desafio Realizado no bootcamp de Ciência de Dados criação de um readme no repositorio da Dio nomeado como Eden-Souza.me. Segue uma cópia dele 
 # Eden Souza
 
 ## 🎓 Sobre Mim
